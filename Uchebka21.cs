@@ -2,7 +2,7 @@ using System;
 using System.IO;
 
 
-namespace LabWork6_1_8
+namespace Practica
 {
     internal class Program
     {
